@@ -42,8 +42,7 @@ Copy of the Sokoban game in terminal mode, using the ncurses library, in C.
 ---
 
 ### :exclamation: Rules :
-> The game must be reset by pressing the space bar. 
-<br>
+> The game must be reset by pressing the space bar.  <br>
 > The game must be able to be played with the arrow keys (LEFT, RIGHT, UP and DOWN).
 
 ---
