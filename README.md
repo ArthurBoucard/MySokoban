@@ -1,5 +1,4 @@
-# Dante's Star
-
+# MySokoban
 ## <img width="26px" src="https://newsroom.ionis-group.com/wp-content/uploads/2018/12/epitech-logo-signature-quadri.png"/> Epitech project :
 
 Copy of the Sokoban game in terminal mode, using the ncurses library, in C.
